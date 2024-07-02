@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.cart{
+    width: 30%;
+    height: fit-content;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 5vw;
+    
+}
+
+#productImg{
+    width: 100px;
+    
+}
+
+.Icons{
+    width: 8%;
+}

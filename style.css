@@ -5,7 +5,7 @@
 }
 
 .cart{
-    width: 30%;
+    width: 25%;
     height: fit-content;
     border: 1px solid black;
     text-align: center;
@@ -21,4 +21,9 @@
 
 .Icons{
     width: 8%;
+}
+
+.countTxt{
+    font-size: 2.5vw;
+    margin: 3vw;
 }

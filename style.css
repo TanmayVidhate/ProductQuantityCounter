@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background: #DFF5FF;
+}
 
 .cart{
     width: 25%;
@@ -12,6 +15,7 @@
     margin: auto;
     margin-top: 5vw;
     padding: 2vw ;
+    border-radius: 5px;
 }
 
 #productImg{
